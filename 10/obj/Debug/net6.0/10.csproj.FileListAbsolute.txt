@@ -1,0 +1,15 @@
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/bin/Debug/net6.0/10
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/bin/Debug/net6.0/10.deps.json
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/bin/Debug/net6.0/10.runtimeconfig.json
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/bin/Debug/net6.0/10.dll
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/bin/Debug/net6.0/10.pdb
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/10.csproj.AssemblyReference.cache
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/10.AssemblyInfoInputs.cache
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/10.AssemblyInfo.cs
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/10.csproj.CoreCompileInputs.cache
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/10.dll
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/refint/10.dll
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/10.pdb
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/10.genruntimeconfig.cache
+/Users/kseniachernaya/Desktop/C#/Homework 2/10/obj/Debug/net6.0/ref/10.dll
